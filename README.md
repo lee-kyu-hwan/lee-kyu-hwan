@@ -8,17 +8,17 @@ Frontend engineer crafting seamless web & mobile experiences.
 - 🌱 Interested in **Feature-Sliced Design**, **design tokens**, and **DX tooling**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,docker,kubernetes,aws,githubactions" alt="React, Next.js, TypeScript, Tailwind CSS, Docker, Kubernetes, AWS, GitHub Actions"/></a>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,docker,kubernetes,aws,githubactions" alt="React, Next.js, TypeScript, Tailwind CSS, Docker, Kubernetes, AWS, GitHub Actions"/>
 </p>
 
 ---
 
-## My Tech Interests & Stacks 🚀
+## Tech Stack 🚀
 
-I'm passionate about building modern, scalable applications with a focus on **Next.js**, **TypeScript**, and **React Native**. From web to mobile, I create seamless cross-platform experiences with **React Native (Expo)**. Here's a rundown of the tools and technologies I work with:
+I focus on scalable frontend architecture, shared design systems, and developer tooling across web and mobile.
 
 ### Frontend
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/> <img src="https://img.shields.io/badge/Zustand-543A2F?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/> <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form"/> <img src="https://img.shields.io/badge/Radix UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black" alt="Redux"/> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=black" alt="Recoil"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black" alt="React"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=Next.js&logoColor=white" alt="Next.js"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/> <img src="https://img.shields.io/badge/TanStack Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/> <img src="https://img.shields.io/badge/Zustand-543A2F?style=for-the-badge&logo=zustand&logoColor=white" alt="Zustand"/> <img src="https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white" alt="Zod"/> <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=react-hook-form&logoColor=white" alt="React Hook Form"/> <img src="https://img.shields.io/badge/Radix UI-161618?style=for-the-badge&logo=radixui&logoColor=white" alt="Radix UI"/> <img src="https://img.shields.io/badge/shadcn/ui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/> <img src="https://img.shields.io/badge/Framer Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=black" alt="Redux"/> <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=black" alt="Recoil"/>
 
 ### Mobile
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Native"/> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo"/> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -29,7 +29,7 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 ### Backend
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=black" alt="Node.js"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=black" alt="Spring"/> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=black" alt="Spring Boot"/>
 
-### Others
+### Tooling & Platforms
 - **Monorepo & Tooling**  
   <img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" alt="Turborepo"/> <img src="https://img.shields.io/badge/pnpm-F69220?style=for-the-badge&logo=pnpm&logoColor=black" alt="pnpm"/> <img src="https://img.shields.io/badge/GitHub Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
 
@@ -42,7 +42,7 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 - **Databases**  
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL"/> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black" alt="Oracle"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=black" alt="MongoDB"/>
 
-- **Cloud/Services**  
+- **Cloud Services**  
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 
 - **Blockchain**  
@@ -53,7 +53,7 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 
 ---
 
-## GitHub Stats 📊
+## GitHub Activity 📊
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true&theme=dark">
