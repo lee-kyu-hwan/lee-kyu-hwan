@@ -1,3 +1,15 @@
+# Hi there 👋 I'm Kyuhwan Lee (이규환)
+
+> A day is long and a week is short.
+
+Frontend engineer crafting web & mobile experiences for an accommodation booking platform.
+
+- 🔭 Currently building a **Turborepo monorepo** — user/partner/admin web apps with **Next.js 15 · React 19**, and a partner mobile app with **React Native (Expo)**
+- 🌱 Interested in **Feature-Sliced Design**, **design tokens**, and **DX tooling**
+- 📫 Reach me: <a href="mailto:lgh778923@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" align="center"/></a>
+
+---
+
 ### My Tech Interests & Stacks 🚀
 
 I'm passionate about building modern, scalable applications with a focus on **Next.js**, **TypeScript**, and **React Native**. From web to mobile, I create seamless cross-platform experiences with **React Native (Expo)**. Here's a rundown of the tools and technologies I work with:
@@ -34,3 +46,12 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 
 - **Analytics**  
   <img src="https://img.shields.io/badge/Qlik Sense-2CA01C?style=for-the-badge&logo=qlik&logoColor=black"/>
+
+---
+
+### GitHub Stats 📊
+
+<p>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lee-kyu-hwan&theme=default"/>
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lee-kyu-hwan&theme=default"/>
+</p>
