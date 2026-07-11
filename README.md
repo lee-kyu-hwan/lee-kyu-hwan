@@ -4,7 +4,7 @@
 
 Frontend engineer crafting seamless web & mobile experiences.
 
-- 🔭 Currently building web & mobile apps in a **Turborepo monorepo** with **Next.js 15 · React 19** and **React Native (Expo)**
+- 🔭 Currently building web & mobile apps in a **Turborepo monorepo** — **Next.js (App Router, Server Components)** on the web, **React Native (Expo, New Architecture)** on mobile
 - 🌱 Interested in **Feature-Sliced Design**, **design tokens**, and **DX tooling**
 
 ---
