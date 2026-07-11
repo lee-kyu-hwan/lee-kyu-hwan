@@ -7,6 +7,10 @@ Frontend engineer crafting seamless web & mobile experiences.
 - 🔭 Currently building web & mobile apps in a **Turborepo monorepo** — **Next.js (App Router, Server Components)** on the web, **React Native (Expo, New Architecture)** on mobile
 - 🌱 Interested in **Feature-Sliced Design**, **design tokens**, and **DX tooling**
 
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,expo,docker,kubernetes,aws,githubactions" alt="Core tech stack"/></a>
+</p>
+
 ---
 
 ### My Tech Interests & Stacks 🚀
@@ -50,7 +54,8 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 
 ### GitHub Stats 📊
 
-<p>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lee-kyu-hwan&theme=default"/>
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lee-kyu-hwan&theme=default"/>
-</p>
+<img src="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true" alt="GitHub Streak" height="170"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=lee-kyu-hwan&hide_border=true" alt="Contribution Activity Graph"/>
+
+<!-- TODO: WakaTime 계정 생성 후 코딩 시간 위젯 추가 -->
