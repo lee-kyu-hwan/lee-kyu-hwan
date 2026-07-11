@@ -8,7 +8,7 @@ Frontend engineer crafting seamless web & mobile experiences.
 - 🌱 Interested in **Feature-Sliced Design**, **design tokens**, and **DX tooling**
 
 <p>
-  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,expo,docker,kubernetes,aws,githubactions" alt="Core tech stack"/></a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,tailwind,docker,kubernetes,aws,githubactions" alt="Core tech stack"/></a>
 </p>
 
 ---
