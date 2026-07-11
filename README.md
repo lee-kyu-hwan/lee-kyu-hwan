@@ -55,12 +55,13 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 
 ## GitHub Stats 📊
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true&theme=dark">
-  <img src="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true" alt="GitHub Streak" height="170"/>
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lee-kyu-hwan&hide_border=true&theme=github-compact">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lee-kyu-hwan&hide_border=true" alt="Contribution Activity Graph"/>
-</picture>
+<p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true&theme=dark">
+    <img src="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true" alt="GitHub Streak" height="170"/>
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lee-kyu-hwan&hide_border=true&theme=github-compact">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=lee-kyu-hwan&hide_border=true" alt="Contribution Activity Graph" height="170"/>
+  </picture>
+</p>
