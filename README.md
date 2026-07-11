@@ -57,5 +57,3 @@ I'm passionate about building modern, scalable applications with a focus on **Ne
 <img src="https://streak-stats.demolab.com?user=lee-kyu-hwan&hide_border=true" alt="GitHub Streak" height="170"/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=lee-kyu-hwan&hide_border=true" alt="Contribution Activity Graph"/>
-
-<!-- TODO: WakaTime 계정 생성 후 코딩 시간 위젯 추가 -->
