@@ -2,11 +2,10 @@
 
 > A day is long and a week is short.
 
-Frontend engineer crafting web & mobile experiences for an accommodation booking platform.
+Frontend engineer crafting seamless web & mobile experiences.
 
-- 🔭 Currently building a **Turborepo monorepo** — user/partner/admin web apps with **Next.js 15 · React 19**, and a partner mobile app with **React Native (Expo)**
+- 🔭 Currently building web & mobile apps in a **Turborepo monorepo** with **Next.js 15 · React 19** and **React Native (Expo)**
 - 🌱 Interested in **Feature-Sliced Design**, **design tokens**, and **DX tooling**
-- 📫 Reach me: <a href="mailto:lgh778923@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" align="center"/></a>
 
 ---
 
